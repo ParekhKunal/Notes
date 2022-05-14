@@ -1,0 +1,22 @@
+.notes.new{
+    background-color: var(--color-primary);
+}
+textarea{
+    background: var(--color-primary);
+    border: none;
+    resize: none;
+}
+textarea:focus{
+    outline: none;
+}
+.save{
+    background-color: var(--color-grey);
+    border: none;
+    border-radius: 15px;
+    padding: 5px 10px 5px 10px;
+    font-size: 1rem;
+}
+.save:hover{
+    background-color: var(--color-white);
+    cursor: pointer;
+}

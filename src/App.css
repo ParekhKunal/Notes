@@ -23,7 +23,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.con{
+  min-height: 100vh;
+}
 .App-link {
   color: #61dafb;
 }
